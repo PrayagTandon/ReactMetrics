@@ -40,6 +40,6 @@ For any questions or inquiries, please contact [work.prayagt@gmail.com](mailto:w
 
 ## Designed Inspired from Ed Roh Youtube channel.
 
-![Youtube link](https://www.youtube.com/watch?v=wYpCWwD1oz0)
+[Youtube Video](https://www.youtube.com/watch?v=wYpCWwD1oz0)
 
 ---
