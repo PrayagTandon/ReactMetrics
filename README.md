@@ -38,8 +38,4 @@ _Bar Graph_
 
 For any questions or inquiries, please contact [work.prayagt@gmail.com](mailto:work.prayagt@gmail.com).
 
-## Designed Inspired from Ed Roh Youtube channel.
-
-[Youtube Video](https://www.youtube.com/watch?v=wYpCWwD1oz0)
-
 ---
